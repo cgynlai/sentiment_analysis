@@ -1,2 +1,3 @@
-# sentiment_analysis
-# sentiment_analysis
+
+# coding-project-template
+This repo is for the practice project which is to be based on Embedded AI libraries from Watson AI.
